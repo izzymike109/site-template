@@ -1,0 +1,5 @@
+Sitemap: http://localhost:8080/sitemap.xml
+Sitemap: http://localhost:8080/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
